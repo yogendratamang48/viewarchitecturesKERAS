@@ -3,6 +3,7 @@
 * Make sure you have installed:
     * pydot `pip install pydot`
     * graphviz systemwise `sudo apt-get install graphviz`
+    * If you are on windows, [go to here](https://graphviz.gitlab.io/download/) and add enviroment variable to bin directory if necessary.
     * graphviz in python `pip install graphviz`
 ### Saving and Loading Models
 #### Imports
